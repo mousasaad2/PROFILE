@@ -96,7 +96,7 @@ li{
     background-color: #f4f4f4;
     min-width: 250px;
     left: 0px;
-    transform: translate(-213px, -227px);
+    transform: translate(-213px, -255px);
     top: calc(100% + 18px);
     z-index: 1;
     transition: 0.7s;
